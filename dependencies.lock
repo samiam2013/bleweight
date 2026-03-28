@@ -1,0 +1,16 @@
+dependencies:
+  idf:
+    source:
+      type: idf
+    version: 6.0.0
+  nimble_central_utils:
+    dependencies: []
+    source:
+      path: ../../../.espressif/v6.0/esp-idf/examples/bluetooth/nimble/common/nimble_central_utils
+      type: local
+    version: '*'
+direct_dependencies:
+- nimble_central_utils
+manifest_hash: 0d32c0594a3d0270cd4a517a9ef524b101b8ec4aa020c829e8d86220ec38519f
+target: esp32
+version: 3.0.0

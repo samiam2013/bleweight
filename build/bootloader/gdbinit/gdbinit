@@ -1,0 +1,2 @@
+source /home/sam/git/samiam2013/bleweight/build/bootloader/gdbinit/symbols
+source /home/sam/git/samiam2013/bleweight/build/bootloader/gdbinit/connect
